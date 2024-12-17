@@ -1,0 +1,8 @@
+{
+  "/(blog)/page": "app/(blog)/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(sanity)/studio/[[...tool]]/page": "app/(sanity)/studio/[[...tool]]/page.js",
+  "/(sanity)/icon-1gp61b.ico/route": "app/(sanity)/icon-1gp61b.ico/route.js",
+  "/api/draft-mode/enable/route": "app/api/draft-mode/enable/route.js",
+  "/(blog)/posts/[slug]/page": "app/(blog)/posts/[slug]/page.js"
+}

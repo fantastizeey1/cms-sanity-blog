@@ -1,0 +1,27 @@
+{
+  "node": {
+    "0064598fa668d6cf6810f50db72d29caa885f07b26": {
+      "workers": {
+        "app/(blog)/posts/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(blog)/posts/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(blog)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/next-sanity@9.8.27_@sanity+client@6.24.1_@sanity+icons@3.5.3_react@18.3.1__@sanity+types@3.67_k4lcs7v5dkihpx23tyr7r67pkm/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(blog)/posts/[slug]/page": "action-browser"
+      }
+    },
+    "7f8010fda455341c74c8a89f323cf370eaf25859b8": {
+      "workers": {
+        "app/(blog)/posts/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(blog)/posts/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(blog)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/.pnpm/next-sanity@9.8.27_@sanity+client@6.24.1_@sanity+icons@3.5.3_react@18.3.1__@sanity+types@3.67_k4lcs7v5dkihpx23tyr7r67pkm/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(blog)/posts/[slug]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
